@@ -1,0 +1,50 @@
+body {
+	  background-color: yellow;
+
+     }
+
+.wrap {
+	   background-color: red;
+	   height: 400px;
+	   margin: auto;
+	   width: 800px;
+	   position: relative;
+      }
+
+.header {
+	     background-color: blue;
+	     height: 70px;
+	     width: 800px; 
+        }
+
+.leftmenu {
+	       background-color: green;
+	       height: 330px;
+	       width: 100px;
+          }
+         
+.content {
+	      background-color: black;
+	      height: 330px;
+	      width: 600px;
+	      position: absolute;
+	      left: 100px;
+	      top: 70px;
+         }
+        
+.rightmenu {
+	        background-color: orange;
+	        height: 330px;
+	        width: 100px;
+	        position: absolute;
+	        left: 700px;
+	        top: 70px;
+           }
+
+.footer {
+	     background-color: brown;
+	     height: 70px;
+	     width: 800px;
+	     position: absolute;
+	     top: 400px;
+        }
